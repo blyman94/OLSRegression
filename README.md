@@ -1,6 +1,6 @@
 # Ordinary Least Squares (OLS) Regression
 
-This package is a simple project to showcase an implementation of the OLS
+This is a simple project to showcase an implementation of the OLS
 regression algorithm. In this particular implementation the following occurs:
 
 	1. input independent and dependent variable data is split into 
